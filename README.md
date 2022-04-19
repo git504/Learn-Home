@@ -1,8 +1,8 @@
 # Learn-Home
 
-Define the [needs](./Notes+-+Réunion+Learn@Home.pdf) of a mentorship app 📚
+Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app 📚
 
-![Logo](./15975912807474_Screen%20Shot%202020-08-16%20at%2017.19.38.png "openclassrooms, P10")
+![Logo](./Tools/15975912807474_Screen%20Shot%202020-08-16%20at%2017.19.38.png "openclassrooms, P10")
 
 # Deliverables 🚚
 
