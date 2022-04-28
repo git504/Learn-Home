@@ -8,17 +8,21 @@ Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app
 
 # Deliverables 🚚... Une image vaut mieux qu'un long discours 😉
 
-1. **Use case diagrams**
+1. **Use case diagrams** 🔍
 
-Use case diagrams for each of the major features/page (login, chat, calendar, task manager, dashboard), no need to use UML.
+This is a "back and forth" between the user and the programme.
 
-![Logo](./Tools/soutenance.png "Use case diagrams, P10")
+[Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
+
+- no need to use UML (**U**nified **M**odeling **L**anguage: **l**angage partagé de **m**odélisation) or event storming
+
+![CLICK HERE TO SEE THE UML](./Tools/soutenance.png "Use case diagrams, P10 Learn@Home")
 
 ---
 
 2. **User stories 🤓 Who❔ What❔ Why❔**
 
-User stories with requirements for each feature, shared in a standard format (PDF, DOCX, XLSX).
+User stories with requirements for each feature.
 
 ![Logo](./Tools/soutenance.png "User stories, P10")
 
@@ -26,7 +30,7 @@ User stories with requirements for each feature, shared in a standard format (PD
 
 3. **Mock-ups**
 
-Mock-ups of the site with a simple design and at least one mock-up per page (you can use Figma or Sketch and you will have to explain the navigation between the pages during the meeting).
+Mock-ups of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
 
 ![Logo](./Tools/soutenance.png "Mock-ups, P10")
 
@@ -34,7 +38,7 @@ Mock-ups of the site with a simple design and at least one mock-up per page (you
 
 4. **Kanban**
 
-A Kanban breaking down the project, in a macro way (technical details excluded) into blocks of features and sub-features for development. I have started the breakdown in this kanban on [notion](https://learnathome-p10.notion.site/), it's up to you to complete the "ANALYZE" column on the same model. You can work on Notion, Trello or GitHub.
+A Kanban breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown in this kanban on [notion](https://learnathome-p10.notion.site/), it's up to you to complete the "ANALYZE" column on the same model.
 
 ![Logo](./Tools/soutenance.png "Kanban, P10")
 
