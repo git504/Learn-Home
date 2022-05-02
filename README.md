@@ -114,3 +114,5 @@ reste à faire **Burndown Chart**
 checklist
 
 ![Logo](./Tools/Initiez-vous%20%C3%A0%20la%20gestion%20de%20projet%20agile/checklist.png "checklist, P10")
+
+*** Domain-Driven Design: Tackling Complexity in the Heart of Software de Eric Evans. Il existe également Domain-Driven Design vite fait en français ( 🐓), de Abel Avram & Floyd Marinescu, traduit par Guillaume Lebur.
