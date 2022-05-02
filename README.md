@@ -6,7 +6,7 @@ Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app
 
 ![Logo](./Tools/15975912807474_Screen%20Shot%202020-08-16%20at%2017.19.38.png "openclassrooms, P10")
 
-# Deliverables 🚚... Une image vaut mieux qu'un long discours 😉
+# Deliverables 🚚...
 
 1. **Use case diagrams** 🔍
 
