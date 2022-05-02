@@ -16,15 +16,13 @@ This is a "back and forth" between the user and the programme.
 
 - no need to use UML (**U**nified **M**odeling **L**anguage: **l**angage partagé de **m**odélisation) or event storming
 
-![CLICK HERE TO SEE THE UML](./Tools/soutenance.png "Use case diagrams, P10 Learn@Home")
+![CLICK HERE TO SEE THE UML](./Livrables/soutenance.png "Use case diagrams, P10 Learn@Home")
 
 ---
 
 2. **User stories 🤓 Who❔ What❔ Why❔**
 
-User stories with requirements for each feature.
-
-![Logo](./Tools/soutenance.png "User stories, P10")
+[User stories](https://github.com/git504/Learn-Home/blob/main/Livrables/user_stories.pdf "User stories, P10") with requirements for each feature.
 
 ---
 
@@ -32,7 +30,7 @@ User stories with requirements for each feature.
 
 Mock-ups of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
 
-![Logo](./Tools/soutenance.png "Mock-ups, P10")
+![Logo](./Livrables/soutenance.png "Mock-ups, P10")
 
 ---
 
@@ -40,7 +38,7 @@ Mock-ups of the site with a simple design and at least one mock-up per page (exp
 
 A Kanban breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown in this kanban on [notion](https://learnathome-p10.notion.site/), it's up to you to complete the "ANALYZE" column on the same model.
 
-![Logo](./Tools/soutenance.png "Kanban, P10")
+![Logo](./Livrables/soutenance.png "Kanban, P10")
 
 # p'tit mémo **agile**
 
@@ -115,4 +113,4 @@ checklist
 
 ![Logo](./Tools/Initiez-vous%20%C3%A0%20la%20gestion%20de%20projet%20agile/checklist.png "checklist, P10")
 
-*** Domain-Driven Design: Tackling Complexity in the Heart of Software de Eric Evans. Il existe également Domain-Driven Design vite fait en français ( 🐓), de Abel Avram & Floyd Marinescu, traduit par Guillaume Lebur.
+\*\*\* Domain-Driven Design: Tackling Complexity in the Heart of Software de Eric Evans. Il existe également Domain-Driven Design vite fait en français ( 🐓), de Abel Avram & Floyd Marinescu, traduit par Guillaume Lebur.
