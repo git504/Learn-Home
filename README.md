@@ -10,7 +10,7 @@ Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app
 
 1. **Use case diagrams** 🔍
 
-[**UML\*** Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
+📁 [**UML\*** Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
 
 This is a "back and forth" between the user and the programme.
 
@@ -20,19 +20,19 @@ This is a "back and forth" between the user and the programme.
 
 2. **User stories 🤓 Who❔ What❔ Why❔**
 
-[User stories](https://github.com/git504/Learn-Home/blob/main/Livrables/user_stories.pdf "User stories, P10") with requirements for each feature.
+📁 [USER STORIES](https://github.com/git504/Learn-Home/blob/main/Livrables/user_stories.pdf "User stories, P10") with requirements for each feature.
 
 ---
 
 3. **Mock-ups**
 
-[FIGMA file Mock-ups.fig](./Livrables/soutenance.png "FIGMA, P10") of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
+📁 [FIGMA FILE Mock-ups.fig](./Livrables/soutenance.png "FIGMA, P10") of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
 
 ---
 
 4. **Kanban**
 
-A Kanban breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown [in this kanban on NOTION](./Livrables/KanBan_LearnHome.pdf "Kanban, P10"), it's up to you to complete the **ANALYZE column** on the same model.
+📁 [A NOTION KANBAN](./Livrables/KanBan_LearnHome.pdf "Kanban, P10") breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown in this kanban, it's up to you to complete the **ANALYZE column** on the same model.
 
 # p'tit mémo **agile**
 
