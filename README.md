@@ -10,13 +10,11 @@ Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app
 
 1. **Use case diagrams** 🔍
 
+[**UML\*** Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
+
 This is a "back and forth" between the user and the programme.
 
-[Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
-
-- no need to use UML (**U**nified **M**odeling **L**anguage: **l**angage partagé de **m**odélisation) or event storming
-
-![CLICK HERE TO SEE THE UML](./Livrables/soutenance.png "Use case diagrams, P10 Learn@Home")
+\*UML : **U**nified **M**odeling **L**anguage: **l**angage partagé de **m**odélisation
 
 ---
 
@@ -28,17 +26,13 @@ This is a "back and forth" between the user and the programme.
 
 3. **Mock-ups**
 
-Mock-ups of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
-
-![Logo](./Livrables/soutenance.png "Mock-ups, P10")
+[FIGMA file Mock-ups.fig](./Livrables/soutenance.png "FIGMA, P10") of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
 
 ---
 
 4. **Kanban**
 
-A Kanban breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown in this kanban on [notion](https://learnathome-p10.notion.site/), it's up to you to complete the "ANALYZE" column on the same model.
-
-![Logo](./Livrables/soutenance.png "Kanban, P10")
+A Kanban breaking down the project, in a **macro way** (_technical details excluded_) into blocks of features and sub-features for development. I have started the breakdown [in this kanban on NOTION](./Livrables/KanBan_LearnHome.pdf "Kanban, P10"), it's up to you to complete the **ANALYZE column** on the same model.
 
 # p'tit mémo **agile**
 
@@ -60,7 +54,7 @@ Ces expériences nous ont amenés à valoriser :**
 
 methode de **Tuckman** 😇 🍅 📈 🧑
 
-- **Formin**g / Formation\*\* → Niko-Niko
+- **Forming / Formation** → Niko-Niko
 - **Storming / Lancement** → Pomodoro
 - **Norming / Régularisation** → ROTI (Return on Time Invested)
 - **Performing / Exécution** → personas en scène dans des story-boards, ensuite wireframe, ensuite maquette ...
