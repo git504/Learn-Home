@@ -10,7 +10,7 @@ Define the [needs](./Tools/Notes+-+Réunion+Learn@Home.pdf) of a mentorship app
 
 1. **Use case diagrams** 🔍
 
-📁 [**UML\*** Use case diagrams](https://youtu.be/J8NtoLxhoRc) for each of the major features/page.
+📁 [**UML\*** Use case diagrams](./Livrables/App%20Learn%40Home.drawio.pdf) for each of the major features/page.
 
 This is a "back and forth" between the user and the programme.
 
