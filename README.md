@@ -26,7 +26,7 @@ This is a "back and forth" between the user and the programme.
 
 3. **Mock-ups**
 
-📁 [FIGMA FRAMES Mock-ups.pdf](./Livrables/figma%20frames/Learn%40Home.pdf "FIGMA FRAMES, P10") of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
+📁 [FIGMA FRAMES Mock-ups.pdf](./Livrables/figma%20frames "FIGMA FRAMES, P10") of the site with a simple design and at least one mock-up per page (explain the navigation between the pages during the meeting).
 
 ---
 
